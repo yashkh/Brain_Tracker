@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\yash\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="C:\Users\yash\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\okhttp-2.5.0_eac8eb5e2f38e3e5128262d204a0c3a7c8b5b1f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yash\.gradle\caches\modules-2\files-2.1\com.jakewharton\disklrucache\2.0.2\93b399470e72c0bc8cb52379943b63c9aa586cd8\disklrucache-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="93b399470e72c0bc8cb52379943b63c9aa586cd8">
+        <dex dex="C:\Users\yash\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\disklrucache-2.0.2_93aa3c28785568fc96f610dcc24749080b876e50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yash\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\libs\libmuse_android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e756fe8826070e7f2a88030bf3dcfdf68a625905">
+        <dex dex="C:\Users\yash\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\libmuse_android_db22420170c77a4336f01c799410d4a39e6f48d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yash\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\yash\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_08231b11f8d2ba2bfec92496c06b9cbc91ca88f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yash\.gradle\caches\modules-2\files-2.1\com.microsoft.azure\azure-mobile-android\3.1.0\ae6cfa31ba5a84141676d2d92fa64ca36c52d28\azure-mobile-android-3.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0ae6cfa31ba5a84141676d2d92fa64ca36c52d28">
+        <dex dex="C:\Users\yash\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\azure-mobile-android-3.1.0_eb8b18c61a1b5686b65dc665de6653dd47830728.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yash\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="C:\Users\yash\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\gson-2.3_d9830208457fee75387a76b2f46e92eeb7161601.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\guava\guava\18.0\guava-18.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="C:\Users\yash\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\guava-18.0_23ae9d619c9ad952ac11ce7bff78df802e3e98c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yash\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.19\a8f23f65fc1e522ee4a1a697ee569901a46741fa\library-1.0.19.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="C:\Users\yash\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\library-1.0.19_ae4d95ebc1d29ef81fc7d998dafe9c139e5a1dae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yash\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\yash\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_842f1a5ab0ee9dfb0402e1ba9f2395c1fcbb595d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yash\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\yash\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_79e55e153e0c3a7cd8ff2be6afd45a08ff53f6c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yash\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\yash\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\okio-1.6.0_d5ae59afb69a29d239f343e028ec98bf4d46e30b.jar" />
+    </item>
+
+</items>
